@@ -1,0 +1,16 @@
+.meditation_pics {
+  width: auto;
+}
+
+#technique_desc {
+  color: midnightblue;
+  font-weight: bold;
+}
+
+body {
+  background-color: purple;
+}
+
+h1, h2 {
+  text-align: center;
+}
